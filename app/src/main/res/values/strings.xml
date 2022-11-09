@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sokoban Game MVC Pattern</string>
+    <string name="level_completed">Level Completed!</string>
+</resources>
